@@ -1,3 +1,3 @@
 # zapzap
 
-[Clique aqui para me chamar no WhatsApp](https://wa.me/553192243305)
+whatsapp://send?phone=553192243305
